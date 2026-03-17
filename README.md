@@ -1,4 +1,11 @@
-<h3 align="center">
+<h1 align="center">Rounak Sharma</h1>
+
+<p align="center">
   <a href="https://rounak-au.github.io">🚀 View Portfolio</a>
-</h3>
-[![Portfolio Preview](preview.png)](https://rounak-au.github.io)
+</p>
+
+<p align="center">
+  <a href="https://rounak-au.github.io">
+    <img src="preview.png" width="800"/>
+  </a>
+</p>
